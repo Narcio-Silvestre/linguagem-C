@@ -6,4 +6,4 @@ This is an exercise about `data structures`
   - Open index.html
 
 ### If you want to see the code 
-  - Download open stacks.c
+  - Open stacks.c
