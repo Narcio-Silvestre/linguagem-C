@@ -1,3 +1,9 @@
+/*
+*Author: Nárcio Silvestre
+*Date: 05/04/2021
+*Contact: narciosilvestre16@gmail.com
+*/
+
 /// @file stacks.c
 #include <stdio.h>
 #include <stdlib.h>
