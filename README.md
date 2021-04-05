@@ -1,5 +1,5 @@
 # linguagem-C
-This is a exercise
+This is an exercise
 
 ### If you want to see the documentation 
   1. Step download folder doxygen
